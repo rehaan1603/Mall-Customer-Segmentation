@@ -43,7 +43,8 @@ Segment customers into distinct groups for:
 │ └── kmeans_clustering.ipynb # Google Colab Notebook (main analysis)
 │
 ├── requirements.txt # Python dependencies
-├── README.md # Project documentation```
+├── README.md # Project documentation
+```
 
 ## How to Run
 
